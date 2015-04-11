@@ -1,6 +1,6 @@
 //Andrew Dan and Pasha
 package com.example.shat.chat;
-
+//money n hoes
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
