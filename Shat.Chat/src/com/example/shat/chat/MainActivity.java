@@ -1,3 +1,4 @@
+//Andrew Dan and Pasha
 package com.example.shat.chat;
 
 import android.app.Activity;
